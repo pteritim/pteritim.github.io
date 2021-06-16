@@ -67,6 +67,14 @@ html {
   visibility: collapse;
 }
 
+.choice{
+  font-family: "EB Garamond", serif;
+  font-size: 20px;
+  color: #ebe7e1;
+  text-align: center;
+  visibility: collapse;
+}
+
 #anchor2{
   font-family: "EB Garamond", serif;
   font-size: 20px;
