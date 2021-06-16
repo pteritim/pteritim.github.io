@@ -20,4 +20,5 @@ document.getElementById("follow").addEventListener("click", reveal2);
 
 function reveal2(){
   document.getElementById("anchor2").style.visibility = "visible";
+  document.getElementById("choice").style.visibility = "visible";
 }
