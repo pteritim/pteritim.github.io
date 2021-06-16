@@ -71,3 +71,8 @@ html {
   width: 45vw;
   margin-left: 0px;
 }
+
+#map{
+  margin-left: 0px;
+  margin-right: 0px;
+}
