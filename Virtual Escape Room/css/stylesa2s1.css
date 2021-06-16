@@ -160,6 +160,7 @@ html {
   font-family: "EB Garamond", serif;
   font-size: 20px;
   color: #ebe7e1;
+  text-align: center;
   visibility: collapse;
 }
 
@@ -168,4 +169,14 @@ html {
   font-size: 20px;
   color: #ebe7e1;
   visibility: collapse;
+}
+
+#items1{
+  width: 45vw;
+  margin-left: -8vw;
+}
+
+#items2{
+  width: 45vw;
+  margin-left: -8vw;
 }
