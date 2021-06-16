@@ -32,6 +32,19 @@ html {
   line-height: 1.5;
 }
 
+#ural{
+  font-family: "Cormorant Upright", serif;
+  font-size: 20px;
+  color: #ebe7e1;
+  text-align: justify;
+  background-color: #000000;
+  line-height: 1.5;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
 .monologue{
   font-family: "Cormorant Upright", serif;
   font-size: 20px;
