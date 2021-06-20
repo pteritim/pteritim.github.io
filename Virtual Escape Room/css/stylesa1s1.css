@@ -1,0 +1,79 @@
+html {
+  background: url(../Images/background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+*{
+  margin: 0px;
+  margin-left: 8vw;
+  margin-right: 8vw;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.header{
+  font-family: "Bodoni Moda", serif;
+  font-size: 25px;
+  color: #e6e2dc;
+  background-color: #000000;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.bodytext{
+  font-family: "EB Garamond", serif;
+  font-size: 20px;
+  color: #ebe7e1;
+  text-align: justify;
+  background-color: #000000;
+  line-height: 1.5;
+}
+
+.monologue{
+  font-family: "Cormorant Upright", serif;
+  font-size: 20px;
+  color: #ebe7e1;
+  font-weight: bolder;
+  background-color: #000000;
+  text-align:center;
+}
+
+#anchor{
+  position: absolute;
+  left: 410px;
+  top: 1915px;
+  opacity: 0;
+  cursor: default;
+}
+
+#sign{
+  width: 45vw;
+  margin-left: 0px;
+}
+
+#taxi{
+  width: 45vw;
+  margin-left: 0px;
+}
+
+.image{
+  font-family: "EB Garamond", serif;
+  font-size: 20px;
+  color: #ebe7e1;
+  text-align: center;
+}
+
+
+#map{
+  height: 517px;
+  width: 620px;
+  margin-left: 0px;
+}
+
+#map{
+  margin-left: 0px;
+  margin-right: 0px;
+}

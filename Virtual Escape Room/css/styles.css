@@ -1,0 +1,55 @@
+html {
+  background: url(../Images/index.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+*{
+  margin: 0px;
+  margin-left: 4vw;
+  margin-right: 4vw;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.header{
+  font-family: "Bodoni Moda", serif;
+  font-size: 25px;
+  color: #e6e2dc;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align:center;
+}
+
+.bodytext{
+  font-family: "EB Garamond", serif;
+  font-size: 20px;
+  color: #e6e2dc;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.list{
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#anchor{
+  font-family: "EB Garamond", serif;
+  font-size: 20px;
+  color: #ebe7e1;
+  text-align: center;
+}
+
+#sound{
+  height: 40px;
+  padding-top: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+}
