@@ -188,5 +188,5 @@ html {
 
 .image{
   margin-left: 4vw;
-  visibility: collapse;
+  visibility: hidden;
 }
