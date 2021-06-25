@@ -66,7 +66,7 @@ magnify("quoteblack", 1);
 document.getElementById("submitbtn").addEventListener("click",reveal);
 
 function reveal() {
-  if (document.getElementById("inputbox").value === "You miss 100% of the shots you don't take"){
+  if (document.getElementById("inputbox").value === "You miss 100% of the shots you don't take" || "You miss 100% of the shots you don't take"){
     document.getElementById("anchor").href = "act6scene1.html";
   }
 }
