@@ -1,0 +1,65 @@
+html {
+  background: url(../Images/background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+*{
+  margin: 0px;
+  margin-left: 8vw;
+  margin-right: 8vw;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.header{
+  font-family: "Bodoni Moda", serif;
+  font-size: 25px;
+  color: #e6e2dc;
+  background-color: #000000;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.bodytext{
+  font-family: "EB Garamond", serif;
+  font-size: 20px;
+  color: #ebe7e1;
+  text-align: justify;
+  background-color: #000000;
+  line-height: 1.5;
+}
+
+.vvitch{
+  font-family: 'IM Fell English SC', serif;
+  font-size: 20px;
+  color: #f74336;
+  background-color: #000000;
+  text-align:center;
+}
+
+.a{
+  text-align: center;
+}
+
+#anchor{
+  font-family: "EB Garamond", serif;
+  font-size: 20px;
+  color: #ebe7e1;
+}
+
+#chopper{
+  width: 45vw;
+  margin-left: 0px;
+}
+
+#sound{
+  height: 40px;
+  padding-top: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+}
