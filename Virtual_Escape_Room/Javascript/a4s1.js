@@ -135,4 +135,4 @@ function magnify(imgID, zoom) {
     return {x : x, y : y};
   }
 }
-magnify("maze2", 1);
+magnify("maze2", 2);
