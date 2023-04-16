@@ -4,7 +4,7 @@ var anchor = document.getElementById("anchortag");
 
 function linker (){
   var inputTime = document.getElementById("inputbox").value;
-  if (inputTime === "01:00"){
+  if (inputTime === "03:00"){
     anchor.href = "act1scene1.html"
   }
 }
