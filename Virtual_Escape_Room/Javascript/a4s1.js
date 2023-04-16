@@ -88,7 +88,7 @@ function magnify(imgID, zoom) {
   /* Set background properties for the magnifier glass: */
   glass.style.backgroundImage = "url('../Images/Scene Images/Act 4 Hope/Scene 1/maze.jpg')";
   glass.style.backgroundRepeat = "no-repeat";
-  glass.style.backgroundSize = (img.width * zoom) + "px " + (img.height * zoom) + "px";
+  glass.style.backgroundSize = img.width + "px " + img.height + "px";
   bw = 3;
   w = glass.offsetWidth / 2;
   h = glass.offsetHeight / 2;
@@ -135,4 +135,4 @@ function magnify(imgID, zoom) {
     return {x : x, y : y};
   }
 }
-magnify("maze2", 2);
+magnify("maze2", 1);
